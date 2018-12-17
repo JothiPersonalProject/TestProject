@@ -1,1 +1,2 @@
 Hello World !
+We are new to GitHub
